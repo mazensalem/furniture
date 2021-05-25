@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["furniture.superfast.shop"],
+    domains: ["furniture.superfast.shop", "media.crystallize.com"],
   },
 };
