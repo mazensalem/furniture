@@ -8,7 +8,7 @@ import Router from "next/router";
 
 export default function Header() {
   return (
-    <div className="w-screen pt-2 px-2 flex items-center shadow-md justify-between">
+    <div className="w-full z-50 pt-2 fixed top-0 bg-white px-2 flex items-center shadow-md justify-between">
       <div className="flex items-center justify-between">
         <div
           className="p-1 cursor-pointer"
