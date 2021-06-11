@@ -19,8 +19,8 @@ export default function Home() {
       </Head>
       <Header />
       <Bannar />
-      {/* <ProductsList />
-      <ProductSlider />
+      <ProductsList />
+      {/* <ProductSlider />
       <ProductsSection />
       <Footer /> */}
     </>
